@@ -1,7 +1,18 @@
 <html>
    <head>
-       
-       <link rel="stylesheet" href="css/estilos.css">
+       <style>
+           body {
+               background-color: rgb(241, 144, 18);
+           }
+
+h1 {
+  color: rgb(231, 20, 13);
+  text-align: center;
+  font-size: 56px;
+}
+
+
+       </style>
    </head>
    <body>
 
